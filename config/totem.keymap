@@ -47,7 +47,7 @@
         To_base_Layer {
             bindings = <&tog 0>;
             key-positions = <37 36 35 3 2 1 0>;
-            layers = <0>;
+            layers = <4>;
         };
     };
 
